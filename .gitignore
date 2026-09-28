@@ -21,7 +21,7 @@ assets/js
 assets/css
 !assets/dist
 assets/scss
-assets/images
+!assets/images
 .sass-cache/
 *.css.map
 *.sass.map

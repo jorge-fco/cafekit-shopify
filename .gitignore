@@ -13,6 +13,7 @@ prepros-6.config
 *.pug
 *.html
 !index.html
+!product.html
 !about.html
 !collection.html
 
